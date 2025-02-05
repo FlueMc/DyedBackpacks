@@ -106,9 +106,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.github.TheBusyBiscuit</groupId>
+            <groupId>com.github.Slimefun</groupId>
             <artifactId>Slimefun4</artifactId>
-            <version>RC-27</version>
+            <version>4.9-UNOFFICIAL</version>
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
